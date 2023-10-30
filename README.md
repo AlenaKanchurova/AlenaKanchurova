@@ -1,12 +1,14 @@
 ![header](https://github.com/AlenaKanchurova/AlenaKanchurova/blob/main/assets/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20(2)%20(1).png)
 
 # Привет, меня зовут Алена
+---
 ##  :octocat: Обо мне
-
+---
  ###  :e-mail: Контакты:
 
   [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kanchurovaa@gmail.com)
-
+  
+  ---
 ##  :calling: Социальные сети:
  <div id="badges">
     <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
@@ -17,15 +19,17 @@
     </a>
   </div>
 
+---
  ##  :pencil2: Тестовая документация:
 
-
+---
  ## :file_folder: Тестирование веб-приложений: 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>
 </div>
 
+---
 
  ## :calling: Тестирование мобильных приложений:
  <div>
@@ -35,6 +39,7 @@
  
 </div>
 
+---
 
 ## :unlock:Работа с кодом:
 <div>
